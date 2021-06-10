@@ -1,3 +1,8 @@
+@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
+
+.kopubbatang * {
+ font-family: 'KoPub Batang', serif;
+}
 #wrap {margin: 0 auto; width:1680px;
 	}
 #head {background-image: url('image/head_image.png');
